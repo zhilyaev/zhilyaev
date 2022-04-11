@@ -6,7 +6,6 @@
 - 💬 Ask me about Gitlab, Helm, Kubernetes, Terraform 
 - 💻 I'm using Go and Python as main languages
 - 📫 How to reach me: [tg://diemn](https://t.me/diemn)
-- 😄 Pronouns: Diamon
 - ⚡ Fun fact: `Ok, boomer.` I like emoji in a readme as you can see
 
 
