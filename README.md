@@ -8,7 +8,7 @@
 - 📫 How to reach me: [tg://diemn](https://t.me/diemn)
 - ⚡ Fun fact: `Ok, boomer.` I like emoji in a readme as you can see
 
-## 📝 Blogs
+### 📝 Blogs
 
 * [diamon.medium.com](https://diamon.medium.com)
 * [Habr](https://habr.com/ru/users/ZhilyaevDmitriy/posts)
