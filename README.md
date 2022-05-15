@@ -1,11 +1,11 @@
 ## Hi there 👋 
 
-- 🛕 I’m DevOps Team Leader
-- 🌊 I’m maintainer at [helmwave](https://github.com/zhilyaev/helmwave)
+- 🛕 I’m DevOps Team Lead
+- 🌊 I’m owner of [helmwave](https://github.com/helmwave)
 - ☁️ I'm interested in automating everything and cloud-native
 - 💬 Ask me about Gitlab, Helm, Kubernetes, Terraform 
 - 💻 I'm using Go and Python as main languages
-- 📫 How to reach me: [tg://diemn](https://t.me/diemn)
+- 📫 How to reach me: [tg://diemn](https://t.me/diemn), [linkedin](https://www.linkedin.com/in/diamn/)
 - ⚡ Fun fact: `Ok, boomer.` I like emoji in a readme as you can see
 
 ### 📝 Blogs
