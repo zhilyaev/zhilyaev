@@ -10,8 +10,8 @@
 
 ### 📝 Blogs
 
-* [diamon.medium.com](https://diamon.medium.com)
-* [Habr](https://habr.com/ru/users/ZhilyaevDmitriy/posts)
+* [diamon.medium.com](https://diamon.medium.com) (english)
+* [Habr](https://habr.com/ru/users/ZhilyaevDmitriy/posts) (ru)
 
 <!-- ![GitHub stats languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhilyaev&hide_langs_below=1&theme=dark&line_height=27&layout=compact) 
 -->
