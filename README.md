@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-- 🛕 I’m DevOps
+- 🛕 I’m DevOps Team Leader
 - 🌊 I’m maintainer at [helmwave](https://github.com/zhilyaev/helmwave)
 - ☁️ I'm interested in automating everything and cloud-native
 - 💬 Ask me about Gitlab, Helm, Kubernetes, Terraform 
@@ -8,6 +8,10 @@
 - 📫 How to reach me: [tg://diemn](https://t.me/diemn)
 - ⚡ Fun fact: `Ok, boomer.` I like emoji in a readme as you can see
 
+## 📝 Blogs
+
+* https://diamon.medium.com
+* [Habr](https://habr.com/ru/users/ZhilyaevDmitriy/posts)
 
 <!-- ![GitHub stats languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhilyaev&hide_langs_below=1&theme=dark&line_height=27&layout=compact) 
 -->
