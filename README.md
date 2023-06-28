@@ -1,24 +1,23 @@
 ## Hi there 👋 
 
 - 🛕 I’m DevOps Team Lead
-- 🌊 I’m owner of [helmwave](https://github.com/helmwave)
-- ☁️ I'm interested in automating everything and cloud-native
-- 💬 Ask me about Gitlab, Helm, Kubernetes, Terraform 
-- 💻 I'm using Go and Python as main languages
+- 🌊 I’m maintaining [helmwave](https://github.com/helmwave)
+- 💬 Ask me about `GitLab`, `Helm`, `Kubernetes`, `Terraform` and cloud-native.
 - 📫 How to reach me: [tg://diemn](https://t.me/diemn), [linkedin](https://www.linkedin.com/in/diamn/)
-- ⚡ Fun fact: `Ok, boomer.` I like emoji in a readme as you can see
+
+[![Hits](https://u8views.com/api/v1/github/profiles/4854707/views/day-week-month-total-count.svg)](https://u8views.com/github/zhilyaev) 
+
+
 
 ### 📝 Blogs
 
 * [diamon.medium.com](https://diamon.medium.com) (english)
 * [Habr](https://habr.com/ru/users/ZhilyaevDmitriy/posts) (ru)
 
-<!-- ![GitHub stats languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhilyaev&hide_langs_below=1&theme=dark&line_height=27&layout=compact) 
--->
 
-### 👨‍🎤 Github stats
+### 👨‍🎤 GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhilyaev&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true) 
 
-### 🏆 Github Profile Trophy
+### 🏆 GitHub Profile Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=zhilyaev&row=1&column=9&theme=darkhub&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=zhilyaev&row=1&column=4&theme=oldie&no-frame=true)
